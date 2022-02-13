@@ -12,3 +12,5 @@ Public repository containing materials used for Feed Forward (FF) Neural Network
 2. Illustration of how Neural Network processes inputs to the get to the output:
 
 ![Detailed Basic Neural Network v2 - optimised](https://user-images.githubusercontent.com/24861699/147443151-d11203c3-013a-45dc-a833-1efff1e1ecce.png)
+
+Article link: https://towardsdatascience.com/feed-forward-neural-networks-how-to-successfully-build-them-in-python-74503409d99a
